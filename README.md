@@ -35,7 +35,7 @@ Request Body:
 username (string, required): Nama pengguna admin.
 password (string, required): Kata sandi admin.
 
-LINK POSTMAN API [here](https://www.example.com)
+LINK POSTMAN API [here]([https://www.example.com](https://documenter.getpostman.com/view/34565584/2sA3BuUoJh#337ef96b-db2b-4546-931a-1ab0153af3d2))
 
 
 
