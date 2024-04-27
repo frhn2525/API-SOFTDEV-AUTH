@@ -1,10 +1,10 @@
 # API AUTH LOGIN AND REGISTRATION
-# API-SOFTDEV-AUTH'
+## API-SOFTDEV-AUTH'
 
 
-# CLIENT 
+## CLIENT 
 
-## Registrasi Client
+### Registrasi Client
 
 **URL**: `POST /register/client`
 
@@ -14,7 +14,7 @@
 - `username` (string, required): Nama pengguna client.
 - `password` (string, required): Kata sandi client.
 
-## Login Client
+### Login Client
 
 **URL**: `POST /login/client`
 
@@ -24,9 +24,9 @@
 - `username` (string, required): Nama pengguna client.
 - `password` (string, required): Kata sandi client.
 
-# ADMIN
+## ADMIN
 
-## Login Admin
+### Login Admin
 
 **URL**: `POST /login/admin`
 
@@ -36,7 +36,7 @@
 - `username` (string, required): Nama pengguna admin.
 - `password` (string, required): Kata sandi admin.  
 
-## Registrasi Admin
+### Registrasi Admin
 
 **URL**: `POST /register/admin`
 
