@@ -1,5 +1,10 @@
-# API AUTH LOGIN AND REGISTRATION
-## API-SOFTDEV-AUTH'
+##3 API AUTH LOGIN AND REGISTRATION
+
+Softdev
+Nama : Farhan Fawwaz Saputra
+NRP : 2423600048
+Kelas : 1 D4 TRI B
+Level : 2
 
 
 ## CLIENT 
